@@ -1,4 +1,4 @@
-# Hi, I'm Ayah Hamed 👋
+# Hi, I'm Ayah
 
 🎓 Recent graduate passionate about technology and financial systems  
 🌱 Currently building a portfolio of Python projects  
