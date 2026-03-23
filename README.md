@@ -27,11 +27,11 @@ Python automation tool that fetches daily banking and fintech headlines via API 
 **Tools:** Python, NewsAPI, smtplib  
 
 ### 🔐 Risk Score Calculator
-IT risk register built on the CIA Triad framework — automatically scores and categorises risks as HIGH, MEDIUM or LOW.  
+IT risk register built on the CIA Triad framework: automatically scores and categorises risks as HIGH, MEDIUM or LOW.  
 **Tools:** Python, GRC frameworks  
 
 ### ⚙️ CI/CD Pipeline
-Automated testing pipeline using GitHub Actions — runs 10 tests on every push in under 15 seconds.  
+Automated testing pipeline using GitHub Actions: runs 10 tests on every push in under 15 seconds.  
 **Tools:** Python, pytest, GitHub Actions  
 
 
